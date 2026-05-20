@@ -1,0 +1,242 @@
+{
+  "communities": {
+    "0": [
+      "frontend_tsconfig_compileroptions",
+      "frontend_tsconfig_compileroptions_allowjs",
+      "frontend_tsconfig_compileroptions_allowsyntheticdefaultimports",
+      "frontend_tsconfig_compileroptions_esmoduleinterop",
+      "frontend_tsconfig_compileroptions_forceconsistentcasinginfilenames",
+      "frontend_tsconfig_compileroptions_isolatedmodules",
+      "frontend_tsconfig_compileroptions_jsx",
+      "frontend_tsconfig_compileroptions_lib",
+      "frontend_tsconfig_compileroptions_module",
+      "frontend_tsconfig_compileroptions_moduleresolution",
+      "frontend_tsconfig_compileroptions_noemit",
+      "frontend_tsconfig_compileroptions_resolvejsonmodule",
+      "frontend_tsconfig_compileroptions_skiplibcheck",
+      "frontend_tsconfig_compileroptions_strict",
+      "frontend_tsconfig_compileroptions_target",
+      "frontend_tsconfig_compileroptions_usedefineforclassfields",
+      "frontend_tsconfig_include",
+      "frontend_tsconfig_json",
+      "frontend_tsconfig_references"
+    ],
+    "1": [
+      "backend_src_main_java_com_medihistory_controller_patientcontroller_java",
+      "controller_patientcontroller_patientcontroller",
+      "controller_patientcontroller_patientcontroller_createappointment",
+      "controller_patientcontroller_patientcontroller_getanalytics",
+      "controller_patientcontroller_patientcontroller_getappointments",
+      "controller_patientcontroller_patientcontroller_getinsurancedetails",
+      "controller_patientcontroller_patientcontroller_getmedicalhistory",
+      "controller_patientcontroller_patientcontroller_getoverview",
+      "controller_patientcontroller_patientcontroller_getprescriptions",
+      "controller_patientcontroller_patientcontroller_getreminders",
+      "controller_patientcontroller_patientcontroller_getvaccinations",
+      "controller_patientcontroller_patientcontroller_uploadreport",
+      "controller_patientcontroller_reportupload",
+      "controller_patientcontroller_reportupload_getnotes",
+      "controller_patientcontroller_reportupload_getreporttype",
+      "controller_patientcontroller_reportupload_setnotes"
+    ],
+    "2": [
+      "components_patientview_analytics",
+      "components_patientview_historyrecords",
+      "components_patientview_insurancefiles",
+      "components_patientview_patientview",
+      "components_patientview_prescriptions",
+      "components_patientview_reminders",
+      "components_patientview_tabs",
+      "components_patientview_vaccinations",
+      "model_appointment_appointment",
+      "model_appointment_appointment_getdate",
+      "model_appointment_appointment_getdoctor",
+      "model_appointment_appointment_gettype",
+      "model_appointment_appointment_setdate",
+      "model_appointment_appointment_setdoctor",
+      "model_appointment_appointment_settype"
+    ],
+    "3": [
+      "frontend_package_dependencies",
+      "frontend_package_dependencies_react",
+      "frontend_package_dependencies_react_dom",
+      "frontend_package_json",
+      "frontend_package_name",
+      "frontend_package_private",
+      "frontend_package_scripts",
+      "frontend_package_scripts_build",
+      "frontend_package_scripts_dev",
+      "frontend_package_scripts_preview",
+      "frontend_package_type",
+      "frontend_package_version"
+    ],
+    "4": [
+      "components_adminview_adminview",
+      "components_adminview_doctors",
+      "components_adminview_reports",
+      "components_adminview_tabs",
+      "components_adminview_verifyprofiles",
+      "controller_admincontroller_admincontroller",
+      "controller_admincontroller_admincontroller_getdashboard",
+      "controller_admincontroller_admincontroller_getdoctors",
+      "controller_admincontroller_admincontroller_getpendingverifications",
+      "controller_admincontroller_admincontroller_getreportstats"
+    ],
+    "5": [
+      "components_doctorview_doctorview",
+      "components_doctorview_patients",
+      "components_doctorview_schedule",
+      "components_doctorview_tabs",
+      "frontend_src_app_tsx",
+      "frontend_src_main_tsx",
+      "src_app_app",
+      "src_app_roles"
+    ],
+    "6": [
+      "frontend_package_devdependencies",
+      "frontend_package_devdependencies_autoprefixer",
+      "frontend_package_devdependencies_postcss",
+      "frontend_package_devdependencies_tailwindcss",
+      "frontend_package_devdependencies_types_react",
+      "frontend_package_devdependencies_typescript",
+      "frontend_package_devdependencies_vite",
+      "frontend_package_devdependencies_vitejs_plugin_react"
+    ],
+    "7": [
+      "frontend_tsconfig_node_compileroptions",
+      "frontend_tsconfig_node_compileroptions_allowsyntheticdefaultimports",
+      "frontend_tsconfig_node_compileroptions_composite",
+      "frontend_tsconfig_node_compileroptions_module",
+      "frontend_tsconfig_node_compileroptions_moduleresolution",
+      "frontend_tsconfig_node_include",
+      "frontend_tsconfig_node_json"
+    ],
+    "8": [
+      "controller_doctorcontroller_doctorcontroller",
+      "controller_doctorcontroller_doctorcontroller_createprescription",
+      "controller_doctorcontroller_doctorcontroller_getappointments",
+      "controller_doctorcontroller_doctorcontroller_getdashboard",
+      "controller_doctorcontroller_doctorcontroller_getpatients",
+      "controller_doctorcontroller_doctorcontroller_uploadreport"
+    ],
+    "9": [
+      "model_patientrecord_patientrecord",
+      "model_patientrecord_patientrecord_getactivemedications",
+      "model_patientrecord_patientrecord_gettotalrecords",
+      "model_patientrecord_patientrecord_getupcomingappointments",
+      "model_patientrecord_patientrecord_getvaccinationstatus"
+    ],
+    "10": [
+      "components_dashboard_dashboard",
+      "components_dashboard_healthtrends",
+      "components_dashboard_metrics",
+      "frontend_src_components_dashboard_tsx"
+    ],
+    "11": [
+      "components_appointments_appointments",
+      "components_appointments_upcoming",
+      "frontend_src_components_appointments_tsx"
+    ],
+    "12": [
+      "controller_authcontroller_authcontroller",
+      "controller_authcontroller_authcontroller_login"
+    ],
+    "13": [
+      "medihistory_medihistoryapplication_medihistoryapplication",
+      "medihistory_medihistoryapplication_medihistoryapplication_main"
+    ],
+    "14": [
+      "frontend_tailwind_config_js"
+    ],
+    "15": [
+      "frontend_vite_config_ts"
+    ],
+    "16": [
+      "frontend_postcss_config_js"
+    ],
+    "17": [
+      "components_uploadreport_uploadreport"
+    ],
+    "18": [
+      "components_emergencycard_emergencycard"
+    ]
+  },
+  "cohesion": {
+    "0": 0.10526315789473684,
+    "1": 0.13333333333333333,
+    "2": 0.13333333333333333,
+    "3": 0.16666666666666666,
+    "4": 0.2,
+    "5": 0.25,
+    "6": 0.25,
+    "7": 0.2857142857142857,
+    "8": 0.3333333333333333,
+    "9": 0.4,
+    "10": 0.5,
+    "11": 0.6666666666666666,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0
+  },
+  "gods": [
+    {
+      "id": "frontend_tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 16
+    },
+    {
+      "id": "controller_patientcontroller_patientcontroller",
+      "label": "PatientController",
+      "degree": 11
+    },
+    {
+      "id": "components_patientview_patientview",
+      "label": "PatientView()",
+      "degree": 9
+    },
+    {
+      "id": "model_appointment_appointment",
+      "label": "Appointment",
+      "degree": 7
+    },
+    {
+      "id": "frontend_tsconfig_node_compileroptions",
+      "label": "compilerOptions",
+      "degree": 5
+    },
+    {
+      "id": "components_adminview_adminview",
+      "label": "AdminView()",
+      "degree": 5
+    },
+    {
+      "id": "controller_admincontroller_admincontroller",
+      "label": "AdminController",
+      "degree": 5
+    },
+    {
+      "id": "controller_doctorcontroller_doctorcontroller",
+      "label": "DoctorController",
+      "degree": 5
+    },
+    {
+      "id": "frontend_package_scripts",
+      "label": "scripts",
+      "degree": 4
+    },
+    {
+      "id": "components_doctorview_doctorview",
+      "label": "DoctorView()",
+      "degree": 4
+    }
+  ],
+  "surprises": [],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}

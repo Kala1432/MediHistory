@@ -1,0 +1,14 @@
+# Java
+/target/
+**/target/
+*.log
+*.class
+
+# Node
+/node_modules
+/dist
+/.DS_Store
+
+# IDE
+/.idea
+.vscode

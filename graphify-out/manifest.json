@@ -1,0 +1,342 @@
+{
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/tsconfig.node.json": {
+    "mtime": 1779262877.3938026,
+    "ast_hash": "0ec81e439ad6b2e7ff27f4aa869c156a",
+    "semantic_hash": "0ec81e439ad6b2e7ff27f4aa869c156a"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/tailwind.config.js": {
+    "mtime": 1779262836.3341677,
+    "ast_hash": "a3e5be3137f06c23a1336aa71f559d0b",
+    "semantic_hash": "a3e5be3137f06c23a1336aa71f559d0b"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/package.json": {
+    "mtime": 1779262705.2015803,
+    "ast_hash": "6423919da975a729a409066f360b308b",
+    "semantic_hash": "6423919da975a729a409066f360b308b"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/tsconfig.json": {
+    "mtime": 1779262711.9492705,
+    "ast_hash": "184986d9c651e3c9c5259046910986a7",
+    "semantic_hash": "184986d9c651e3c9c5259046910986a7"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/vite.config.ts": {
+    "mtime": 1779262751.2089179,
+    "ast_hash": "4a1383f71271ee449548b6501637218d",
+    "semantic_hash": "4a1383f71271ee449548b6501637218d"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/postcss.config.js": {
+    "mtime": 1779262800.0644026,
+    "ast_hash": "734699bacfd7f35e8a4680c0a98a7080",
+    "semantic_hash": "734699bacfd7f35e8a4680c0a98a7080"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/App.tsx": {
+    "mtime": 1779268049.0839174,
+    "ast_hash": "cd8300b4b00deaa2c1528700521090cf",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/main.tsx": {
+    "mtime": 1779268049.0848749,
+    "ast_hash": "9e55b80ccbceb9f5e68af65b1f71e345",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/components/Dashboard.tsx": {
+    "mtime": 1779262982.0493298,
+    "ast_hash": "911caffe83c18c47f980395592c7be08",
+    "semantic_hash": "911caffe83c18c47f980395592c7be08"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/components/AdminView.tsx": {
+    "mtime": 1779273609.8213377,
+    "ast_hash": "c701b0f1979574bf170dc99d9b49d67a",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/components/UploadReport.tsx": {
+    "mtime": 1779263000.4575438,
+    "ast_hash": "5333476938aa4da7236b39450a00fcbc",
+    "semantic_hash": "5333476938aa4da7236b39450a00fcbc"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/components/PatientView.tsx": {
+    "mtime": 1779268756.4062793,
+    "ast_hash": "d773f5f9165e58285f4894de867b0dfc",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/components/EmergencyCard.tsx": {
+    "mtime": 1779263030.3389761,
+    "ast_hash": "b9e2535c4dcf712afa6899bac38fe3ff",
+    "semantic_hash": "b9e2535c4dcf712afa6899bac38fe3ff"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/components/DoctorView.tsx": {
+    "mtime": 1779268704.4287467,
+    "ast_hash": "3cd7d7f125ac7a1d3785b55530941abf",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/components/Appointments.tsx": {
+    "mtime": 1779263020.0103233,
+    "ast_hash": "02dbefc74d2378f0f7939fd1e56e3107",
+    "semantic_hash": "02dbefc74d2378f0f7939fd1e56e3107"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/MediHistoryApplication.java": {
+    "mtime": 1779263100.8456216,
+    "ast_hash": "8a5ca2bfe6fb7bfb488f488157ab038a",
+    "semantic_hash": "8a5ca2bfe6fb7bfb488f488157ab038a"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/controller/AdminController.java": {
+    "mtime": 1779273555.975329,
+    "ast_hash": "3741c00df5526bf4b1d37665b449f56f",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/controller/AuthController.java": {
+    "mtime": 1779267209.0739503,
+    "ast_hash": "42727940a9beaa1555a238e73a17c81c",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/controller/DoctorController.java": {
+    "mtime": 1779273556.0338726,
+    "ast_hash": "4bcd3ba5912714d50795d1bd4c9195e3",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/controller/PatientController.java": {
+    "mtime": 1779273556.0929258,
+    "ast_hash": "1ee2202a3bf1703c5e2e18295d340aee",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/model/Appointment.java": {
+    "mtime": 1779266222.8676472,
+    "ast_hash": "31905926d3b0880c9cdf1aa4be86b412",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/model/PatientRecord.java": {
+    "mtime": 1779263201.8595352,
+    "ast_hash": "cdfc058eb0532fd7c318740a2e67c045",
+    "semantic_hash": "cdfc058eb0532fd7c318740a2e67c045"
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/context/AuthContext.tsx": {
+    "mtime": 1779273609.6739686,
+    "ast_hash": "91204168e3720dcb9edb9a67b3364bef",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/utils/api.ts": {
+    "mtime": 1779273890.9548028,
+    "ast_hash": "ba02cc03ff3d91fb9a3b7c8d27ba1f82",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/src/components/AuthView.tsx": {
+    "mtime": 1779273609.738837,
+    "ast_hash": "47f58e6bffdc10dbc1c937bab00a535a",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/dto/RegisterRequest.java": {
+    "mtime": 1779267166.5975583,
+    "ast_hash": "57826fd2d17611ea7c8d126d328d919b",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/dto/LoginRequest.java": {
+    "mtime": 1779267166.5276895,
+    "ast_hash": "1748f9ba85e9028a766453a482fbc8f7",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/dto/MessageResponse.java": {
+    "mtime": 1779267166.7812073,
+    "ast_hash": "6d111ac7aaa2fd66afec0fa2e959383a",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/dto/JwtResponse.java": {
+    "mtime": 1779267166.7201293,
+    "ast_hash": "e43d1cd75be31d32d5ed2a21b00379f4",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/NotificationRepository.java": {
+    "mtime": 1779266625.7953935,
+    "ast_hash": "460802c24853c8742f49a6052eb5341c",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/LabReportRepository.java": {
+    "mtime": 1779268655.0990925,
+    "ast_hash": "9bdea13f29691e9bd22624538731e7cf",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/PrescriptionRepository.java": {
+    "mtime": 1779266616.0109043,
+    "ast_hash": "7b98eb4350b1225355844e410ed9091f",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/AppointmentRepository.java": {
+    "mtime": 1779266609.1279383,
+    "ast_hash": "4dc17e0b9f474ac8d9ee9d3220dab463",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/DoctorRepository.java": {
+    "mtime": 1779266605.856718,
+    "ast_hash": "0692742c9c8931d7fef97e8b563c4b24",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/MedicalRecordRepository.java": {
+    "mtime": 1779266612.5488904,
+    "ast_hash": "ef6118323effbd8804a41d47fb20ff2a",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/UserRepository.java": {
+    "mtime": 1779266596.3072705,
+    "ast_hash": "608f10ac3de1ca23b9cf22b4067a0c75",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/InsuranceDetailRepository.java": {
+    "mtime": 1779266622.762868,
+    "ast_hash": "e86a4a5169cd86eef9917190678465d7",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/repository/PatientRepository.java": {
+    "mtime": 1779268655.096721,
+    "ast_hash": "8c11ca6596fabc9ae3abb363ccf48b4b",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/security/SecurityConfig.java": {
+    "mtime": 1779272899.6701677,
+    "ast_hash": "dc4a704a8bcd7265807e7acd99a9dada",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/security/JwtAuthenticationFilter.java": {
+    "mtime": 1779267173.1940596,
+    "ast_hash": "9f78510d3281eb6bd235252583362286",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/security/JwtTokenProvider.java": {
+    "mtime": 1779267166.830668,
+    "ast_hash": "6f9ea77461d01f5c4beb9c4bc6a81fd8",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/InsuranceDetailEntity.java": {
+    "mtime": 1779266536.7289367,
+    "ast_hash": "333b9e3bc0ff52bc39902c63c9b08ac9",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/UserEntity.java": {
+    "mtime": 1779266682.9446723,
+    "ast_hash": "18cbd27ce6f8fbd552122e07c8fcf671",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/DoctorEntity.java": {
+    "mtime": 1779273555.9119408,
+    "ast_hash": "b31f90dfb67000d650b5caaf71e228c0",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/NotificationEntity.java": {
+    "mtime": 1779266549.7282975,
+    "ast_hash": "38403a68dcd7aad67b5c777ee7484bf5",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/MedicalRecordEntity.java": {
+    "mtime": 1779266513.0938056,
+    "ast_hash": "f0340b74a182bdb7a89793286be0aa0e",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/LabReportEntity.java": {
+    "mtime": 1779266528.7019162,
+    "ast_hash": "fc742a8ebfdec1a5f74fa481eac54374",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/AppointmentEntity.java": {
+    "mtime": 1779266505.1843688,
+    "ast_hash": "a219b5c740160ddcfcd2020b66fdff0d",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/PrescriptionEntity.java": {
+    "mtime": 1779266522.3100562,
+    "ast_hash": "b90dbaf1cb93563a0eb61be6d6a02382",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/entity/PatientEntity.java": {
+    "mtime": 1779266660.4653487,
+    "ast_hash": "2ae379edabb58310eac09b95b20b4aa5",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/service/ReportService.java": {
+    "mtime": 1779269409.7036917,
+    "ast_hash": "88e044a2d5bea1e51da6e2151b072494",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/service/S3StorageService.java": {
+    "mtime": 1779269409.6885655,
+    "ast_hash": "aa108203850016199a264aee37a60648",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/service/DataService.java": {
+    "mtime": 1779266148.761595,
+    "ast_hash": "709fa30e73a92b22e0f688f3b079092e",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/service/AuthService.java": {
+    "mtime": 1779273555.7297404,
+    "ast_hash": "02b18a56a7254491e6120b61ae5c9c8d",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/service/UserDetailsServiceImpl.java": {
+    "mtime": 1779267197.4503808,
+    "ast_hash": "bdb1bcb1bede9e885fbffe9c8d2771f7",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/.vscode/settings.json": {
+    "mtime": 1779272513.9225888,
+    "ast_hash": "5d7583e081d7ef291f04677f821d82fa",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/README.md": {
+    "mtime": 1779273208.3881612,
+    "ast_hash": "df26fd9ff73cfeb23dd1fc18c6faf83d",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/frontend/index.html": {
+    "mtime": 1779263346.0496118,
+    "ast_hash": "ba39874859962be392cda1b52cc32d5f",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/.github/copilot-instructions.md": {
+    "mtime": 1779262344.0983293,
+    "ast_hash": "ec2dc0dc7bef63488889f34de2f5584d",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/.codex/hooks.json": {
+    "mtime": 1779271764.6080418,
+    "ast_hash": "2010dfc68a9c9b503a7d63a8faaf3c13",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/AGENTS.md": {
+    "mtime": 1779271439.749482,
+    "ast_hash": "62c05a2bf20bf036a0b2633478663e64",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/controller/ApiExceptionHandler.java": {
+    "mtime": 1779272899.7947621,
+    "ast_hash": "41b188d603f56310520b1b5323af37a4",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/.github/java-upgrade/hooks/scripts/recordToolUse.sh": {
+    "mtime": 1779272490.7587183,
+    "ast_hash": "392b480c0ee4898af9652e8fc429f7cd",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/.github/java-upgrade/hooks/scripts/recordToolUse.ps1": {
+    "mtime": 1779272490.759499,
+    "ast_hash": "a76b05925b01d5e7a642eda1824e8fa7",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/dto/CreateDoctorRequest.java": {
+    "mtime": 1779273555.7904294,
+    "ast_hash": "008cc8868c7931c16c550a5171d3b136",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/config/DataInitializer.java": {
+    "mtime": 1779273556.152742,
+    "ast_hash": "3e8d1eeee4d50cc642b319342c75905c",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/backend/src/main/java/com/medihistory/service/AdminService.java": {
+    "mtime": 1779273555.8507102,
+    "ast_hash": "7bf02433e31c8add427246ec9d10fdac",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/vibe_coding/medihistory-auth-smoke.png": {
+    "mtime": 1779273216.2359834,
+    "ast_hash": "27a585b10e0e18141b439ed6a6e671a4",
+    "semantic_hash": ""
+  }
+}
